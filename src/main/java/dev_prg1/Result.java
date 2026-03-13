@@ -14,7 +14,7 @@ return "pass";
 }
 public static void main(String[] args)
 {
-System.out.println(display(55));
+System.out.println(display(56));
 }
  
 }
